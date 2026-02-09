@@ -6,3 +6,5 @@ Este sitio está publicado con **JupyterLite** (Python en el navegador) y ademá
 - Abrir JupyterLite: `./`
 
 > Tip: si ya estás en JupyterLite, también puedes abrir el link a la app desde aquí.
+
+actualizando build
