@@ -24,4 +24,6 @@ pip install jupyterlite
 jupyter lite build --output-dir _output --contents content
 mkdir -p _output/app
 cp -r app/dist/* _output/app/
+actualizando build
+
 ```
